@@ -29,7 +29,7 @@
   }
 
   .overlay img {
-  width: 600px;
+  width: 1200px;
   height: auto;
   border-radius: 10px;
   animation: wipe 2s ease-out forwards; /* Play once on load */
@@ -54,6 +54,8 @@
     transform: translateY(-100px);
     opacity: 0;
   }
+
+
   100% {
     transform: translateY(0);
     opacity: 1;
@@ -63,3 +65,15 @@
   p {
     font-size: 1.2em;
   }
+
+  @media screen and (max-width: 768px) {
+  .overlay img {
+    width: 500px; /* adjust manually */
+  }
+  .overlay h1 {
+    font-size: 1.5em; /* adjust manually */
+  }
+  .overlay p {
+    font-size: 0.9em; /* adjust manually */
+  }
+}
