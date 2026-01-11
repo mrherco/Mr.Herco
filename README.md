@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm
 <p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
-<h3 align="center">✷ SOC & Blue Team Analyst | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
+<h3 align="center">✷ Blue Team [EH] | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
 
 ---
 
@@ -13,7 +13,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 <p align="center"><img src="cn.png" alt="CN Logo" height="200"/></p>
 ## 🔵 Core Competencies
 
-### SOC & Blue Team Operations
+### Blue Team & SOC Operations
 - Security monitoring & log analysis  
 - Network traffic inspection & anomaly detection  
 - Alert triage and incident investigation  
