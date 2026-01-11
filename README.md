@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mr. Herco 👋</h1>
-<h3 align="center">SOC & Blue Team Analyst | Ethical Hacking & Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert</h3>
+<h3 align="center">SOC & Blue Team Analyst | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert</h3>
 
 ---
 
