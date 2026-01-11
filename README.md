@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm
-<p align="center"><img src="ln.jpg" alt="LN Logo" height="180"/></p></h1>  
+<p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
 <h3 align="center">✷ SOC & Blue Team Analyst | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
 
 ---
@@ -10,7 +10,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 
 ---
 
-<p align="center"><img src="cn.jpg" alt="CN Logo" height="200"/></p>
+<p align="center"><img src="cn.png" alt="CN Logo" height="200"/></p>
 ## 🔵 Core Competencies
 
 ### SOC & Blue Team Operations
@@ -74,9 +74,10 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 
 ---
 
-<p align="center"><img src="bn.jpg" alt="BN Logo" height="200"/></p>
 
 ## 🧠 Frameworks & Concepts
+
+<p align="center"><img src="bn.jpg" alt="BN Logo" height="200"/></p>
 
 - SOC & SIEM workflows  
 - MITRE ATT&CK framework  
