@@ -85,13 +85,4 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 - Incident Response lifecycle  
 - Network security fundamentals  
 - Vulnerability Management
-  
 
-## 🎯 Career Objectives
-
-- Advance as a **Senior SOC / Blue Team Analyst**  
-- Work as a **Cybersecurity Researcher**  
-- Strengthen detection & defensive capabilities  
-- Support organizations in reducing cyber risk  
-
----
