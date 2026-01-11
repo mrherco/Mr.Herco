@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm
 <p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
-<h3 align="center">✷ Blue Team [EH] | Cybersecurity Researcher | Vulnerability Assessment ✷</h3>
+<h3 align="center">✷ Blue Team [EH] | Cybersecurity Researcher ✷</h3>
 
 ---
 
-I am an **upper-intermediate cybersecurity professional** with a primary focus on **SOC operations and Blue Team defensive security**, supported by **controlled Red Team techniques** for validation, testing, and research.  
+I am an **upper-intermediate cybersecurity professional** with a primary focus on **SOC operations and Blue Team defensive security**, supported by **controlled Red Team techniques** for Vulnerability Assessment, pentesting, and research.  
 I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
 I use **AI tools as an advanced assistant**, not as a dependency—leveraging them to **accelerate research, cross-check findings, analyze large datasets, and validate hypotheses**, while maintaining full analytical control, similar to how an expert cybersecurity researcher operates.
 
@@ -21,8 +21,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 
 ### Red Team (Supportive / Validation)
 - Controlled penetration testing  
-- Vulnerability validation  
-- Attack simulation to improve defense  
+- Vulnerability Assessment    
 
 ### Vulnerability Management
 - Network & web vulnerability assessment  
@@ -35,7 +34,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 - Continuous independent research  
 - AI-assisted validation (expert-level use)  
 
-### Social Engineering
+### Social Engineering Expert
 - Human-factor attack analysis  
 - Security awareness improvement  
 - Organizational risk assessment  
