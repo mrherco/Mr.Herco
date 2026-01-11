@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Mr. Herco 👋</h1>
-<h3 align="center">SOC & Blue Team Analyst | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert</h3>
+<h1 align="center">Hi, I'm
+<p align="center"><img src="ln.jpg" alt="LN Logo" height="180"/></p></h1>  
+<h3 align="center">✷ SOC & Blue Team Analyst | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
 
 ---
-
-## 🧠 Professional Profile
 
 I am an **upper-intermediate cybersecurity professional** with a primary focus on **SOC operations and Blue Team defensive security**, supported by **controlled Red Team techniques** for validation, testing, and research.  
 I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
@@ -11,6 +10,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 
 ---
 
+<p align="center"><img src="cn.jpg" alt="CN Logo" height="200"/></p>
 ## 🔵 Core Competencies
 
 ### SOC & Blue Team Operations
@@ -43,6 +43,7 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 ---
 
 ## 🧰 Tools & Technologies
+<p align="center"><img src="tl.jpg" alt="TL Logo" height="200"/></p>
 
 ### 🔐 Networking & Detection
 - **Wireshark** – Network packet capture and traffic analysis  
@@ -71,25 +72,19 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 - Parrot OS  
 - Windows  
 
+---
+
+<p align="center"><img src="bn.jpg" alt="BN Logo" height="200"/></p>
 
 ## 🧠 Frameworks & Concepts
 
 - SOC & SIEM workflows  
 - MITRE ATT&CK framework  
-- OWASP Top 10  
+- Blue Team concepts
 - Incident Response lifecycle  
 - Network security fundamentals  
-
----
-
-## 📚 Professional Development
-
-- Advanced SOC operations  
-- SIEM rule tuning & detection logic  
-- Network-based threat hunting  
-- Blue Team automation concepts  
 - Vulnerability Management
----
+  
 
 ## 🎯 Career Objectives
 
