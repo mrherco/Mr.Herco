@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm
 <p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
-<h3 align="center">✷ Blue Team [EH] | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
+<h3 align="center">✷ Blue Team[EH] | Vulnerability Assessment | Cybersecurity Researcher | Social Engineering Expert ✷</h3>
 
 ---
 
