@@ -6,7 +6,6 @@
 
 I am an **upper-intermediate cybersecurity professional** with a primary focus on **SOC operations and Blue Team defensive security**, supported by **controlled Red Team techniques** for Vulnerability Assessment, pentesting, and research.  
 I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
-I use **AI tools as an advanced assistant**, not as a dependency—leveraging them to **accelerate research, cross-check findings, analyze large datasets, and validate hypotheses**, while maintaining full analytical control, similar to how an expert cybersecurity researcher operates.
 
 ---
 
@@ -27,7 +26,8 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 - Network & web vulnerability assessment  
 - Manual vulnerability verification  
 - Risk analysis & remediation guidance  
-
+- System Security
+  
 ### Cybersecurity Research
 - Manual vulnerability and attack research  
 - Threat intelligence analysis  
@@ -67,12 +67,18 @@ I use **AI tools as an advanced assistant**, not as a dependency—leveraging th
 - **Metasploit** – Validation of identified vulnerabilities in controlled environments  
 
 ### 🐧 Operating Systems
-- Kali Linux  
+- Kali Linux
+- Zorin Os 
 - Parrot OS  
 - Windows  
 
----
+### 🤖 A.I. Tools (Expert)
+- ChatGPT
+- Gemini
+- OSSEC
+- Velociraptor
 
+---
 
 ## 🧠 Frameworks & Concepts
 
