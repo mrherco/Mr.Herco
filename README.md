@@ -9,8 +9,9 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 
 ---
 
+
+### 🔵 Core Competencies
 <p align="center"><img src="cn.png" alt="CN Logo" height="200"/></p>
-## 🔵 Core Competencies
 
 ### Blue Team & SOC Operations
 - Security monitoring & log analysis  
