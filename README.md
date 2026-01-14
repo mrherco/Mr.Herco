@@ -17,7 +17,8 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 - Security monitoring & log analysis  
 - Network traffic inspection & anomaly detection  
 - Alert triage and incident investigation  
-- Detection improvement & defensive recommendations  
+- Detection improvement & defensive recommendations
+- Protects System Security
 
 ### Red Team (Supportive / Validation)
 - Controlled penetration testing  
@@ -27,7 +28,6 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 - Network & web vulnerability assessment  
 - Manual vulnerability verification  
 - Risk analysis & remediation guidance  
-- System Security
   
 ### Cybersecurity Research
 - Manual vulnerability and attack research  
