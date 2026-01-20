@@ -4,7 +4,7 @@
 
 ---
 
-I am an **upper-intermediate cybersecurity professional** with a primary focus on **defensive security**, supported by **controlled Red Team techniques** for Vulnerability Assessment, pentesting, and research.  
+I am an **upper-intermediate cybersecurity professional** with a primary focus on **defensive security**, supported by **controlled Offensive techniques** for Vulnerability Assessment, pentesting, and research.  
 I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
 
 ---
