@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm
 <p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
-<h3 align="center">✷ Defensive Security Analyst | Cybersecurity Researcher | Vulnerability Assessment ✷</h3>
+<h3 align="center">✷ Cyber Security Analyst ✷</h3>
 
 ---
 
-I am an **upper-intermediate cybersecurity professional** with a primary focus on **SOC operations and Blue Team defensive security**, supported by **controlled Red Team techniques** for Vulnerability Assessment, pentesting, and research.  
+I am an **upper-intermediate cybersecurity professional** with a primary focus on **defensive security**, supported by **controlled Red Team techniques** for Vulnerability Assessment, pentesting, and research.  
 I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
 
 ---
@@ -15,8 +15,7 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 
 ### Blue Team & SOC Operations
 - Security monitoring & log analysis  
-- Network traffic inspection & anomaly detection  
-- Alert triage and incident investigation  
+- Network traffic inspection & anomaly detection    
 - Detection improvement & defensive recommendations
 - Protects System Security
 
@@ -25,7 +24,7 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 - Vulnerability Assessment    
 
 ### Vulnerability Management
-- Network & web vulnerability assessment  
+- Network,Web,System vulnerability assessment  
 - Manual vulnerability verification  
 - Risk analysis & remediation guidance  
   
@@ -87,8 +86,7 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 
 - SOC & SIEM workflows  
 - MITRE ATT&CK framework  
-- Blue Team concepts
-- Incident Response lifecycle  
+- Blue Team concepts  
 - Network security fundamentals  
 - Vulnerability Management
 
