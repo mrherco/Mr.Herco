@@ -5,7 +5,7 @@
 ---
 
 I am an **upper-intermediate cybersecurity professional** with a primary focus on **defensive security**, supported by **controlled Offensive techniques** for Vulnerability Assessment, pentesting, and research.  
-I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls**.
+I understand **real-world attack methodologies**—from reconnaissance and exploitation to lateral movement—and apply this knowledge to **design, evaluate, and improve defensive controls** and identify security weaknesses, protect user data, and improve overall security posture. I make sure everything I share is authentic. My strategies are not only based on technical knowledge but also applied with deep psychological understanding to achieve real results.
 
 ---
 
